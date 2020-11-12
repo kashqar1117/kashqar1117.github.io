@@ -1,0 +1,39 @@
+
+    
+    
+
+body{
+   
+}
+
+a{
+    color: turquoise;
+}
+
+ul{
+    position: absolute;
+    right:36px;
+}
+
+main{
+    background-color:whitesmoke;
+    padding-bottom: 190px;
+}
+
+img {
+    border: 5px solid rgb(48, 116, 137);
+  }
+
+  footer{
+      background-color: rgb(48, 116, 137);
+      position: fixed;
+      bottom: 0;
+        
+
+  }
+
+  @media(max-width:991px){
+      ul{
+          position: unset;
+      }
+  }

@@ -5,9 +5,16 @@
 body{
    
 }
+.navbar-brand,  h1{
+    font-family: 'Comfortaa', cursive;
+}
 
 a{
     color: turquoise;
+}
+p{
+    font-family: 'Comfortaa', cursive;
+    text-align: justify;
 }
 
 ul{
@@ -17,11 +24,13 @@ ul{
 
 main{
     background-color:whitesmoke;
-    padding-bottom: 190px;
+    margin-bottom: 100px;
+    
 }
 
 img {
     border: 5px solid rgb(48, 116, 137);
+    float:left;
   }
 
   footer{

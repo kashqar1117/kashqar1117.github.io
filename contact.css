@@ -6,9 +6,16 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    
 }
+h1,  h2, h3 {
+    font-family: 'Comfortaa', cursive;
+    
+}
+h1 , h2{
+    color: rgb(48, 116, 137);
+}
 
 a{
-    color: turquoise;
+    color: black;
 }
 
 ul{
@@ -18,7 +25,8 @@ ul{
 
 main{
     background-color:whitesmoke;
-    padding-bottom: 190px;
+    padding-bottom: 5px;
+    margin-bottom: 100px;
 }
 
 .btn{
@@ -39,4 +47,6 @@ main{
       ul{
           position: unset;
       }
+
+      
   }

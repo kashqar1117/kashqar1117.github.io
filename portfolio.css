@@ -2,10 +2,8 @@
     
     
 
-body{
-   
-}
-.navbar-brand {
+
+.navbar-brand, h1 {
     font-family: 'Comfortaa', cursive;
 }
 a{

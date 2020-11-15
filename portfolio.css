@@ -5,8 +5,8 @@
 body{
    
 }
-nav{
-   color: tomato;
+.navbar-brand,  h1{
+    font-family: 'Comfortaa', cursive;
 }
 a{
     color: turquoise;

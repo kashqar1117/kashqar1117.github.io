@@ -7,7 +7,7 @@ body{
    
 }
 .navbar-brand{
-    font-family: cursive;
+    font-family: 'Fredericka the Great', cursive;
 }
 
 h1,  h2, h3 {
@@ -50,6 +50,9 @@ main{
   @media(max-width:991px){
       ul{
           position: unset;
+      }
+      .navbar-brand{
+          font-family: cursive;
       }
 
       

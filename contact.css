@@ -3,8 +3,12 @@
     
 
 body{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image:url(06C5867E-B3AF-472C-82B7-6729481561BA.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
    
+  
 }
 .navbar-brand{
     font-family: 'Fredericka the Great', cursive;
@@ -31,6 +35,7 @@ main{
     background-color:whitesmoke;
     padding-bottom: 5px;
     margin-bottom: 100px;
+   opacity: 80%;
 }
 
 .btn{
